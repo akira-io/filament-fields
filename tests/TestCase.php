@@ -2,6 +2,7 @@
 
 namespace Akira\AkiraFilamentFields\Tests;
 
+use Akira\AkiraFilamentFields\AkiraFilamentFieldsServiceProvider;
 use BladeUI\Heroicons\BladeHeroiconsServiceProvider;
 use BladeUI\Icons\BladeIconsServiceProvider;
 use Filament\Actions\ActionsServiceProvider;
@@ -18,7 +19,6 @@ use Illuminate\Database\Eloquent\Factories\Factory;
 use Livewire\LivewireServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 use RyanChandler\BladeCaptureDirective\BladeCaptureDirectiveServiceProvider;
-use Akira\AkiraFilamentFields\AkiraFilamentFieldsServiceProvider;
 
 class TestCase extends Orchestra
 {
