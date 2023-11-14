@@ -20,8 +20,8 @@ class FormHelper
             NameFormField::make(),
             NifFormField::make(),
             CountryFormField::make(),
-            IsActiveFormField::make('is_company')
-                ->label(__('form.fields.is_company')),
+            IsActiveFormField::make()
+                ->label(__('akira-filament-fields::form.fields.is_active')),
 
             AddressTableColumn::make(),
 
