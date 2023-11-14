@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Akira\AkiraFilamentFields\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class AkiraFilamentFieldsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'akira-filament-fields';
 
     public $description = 'My command';
 

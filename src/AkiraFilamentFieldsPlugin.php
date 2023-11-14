@@ -1,15 +1,15 @@
 <?php
 
-namespace VendorName\Skeleton;
+namespace Akira\AkiraFilamentFields;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;
 
-class SkeletonPlugin implements Plugin
+class AkiraFilamentFieldsPlugin implements Plugin
 {
     public function getId(): string
     {
-        return 'skeleton';
+        return 'akira-filament-fields';
     }
 
     public function register(Panel $panel): void
