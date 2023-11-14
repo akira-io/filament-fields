@@ -17,6 +17,10 @@ return [
         'route' => 'Rota',
         'time' => 'Hora',
         'contacts' => 'Contactos',
+        'title' => 'Título',
+        'description' => 'Descrição',
+        'image' => 'Imagem',
+
     ],
 
     'actions' => [

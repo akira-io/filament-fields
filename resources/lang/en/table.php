@@ -27,5 +27,8 @@ return [
         'email_verified_at' => 'Email Verified At',
         'user_name' => 'User Name',
         'zip_code' => 'Zip Code',
+        'title' => 'Title',
+        'description' => 'Description',
+        'image' => 'Image',
     ],
 ];
