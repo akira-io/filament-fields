@@ -2,16 +2,17 @@
 
 declare(strict_types=1);
 
-namespace Akira\AkiraFilamentFields\Layout\Form\Fields;
+namespace Akira\AkiraFilamentFields\Layout\Form\Fields\RelationShip;
 
+use Akira\AkiraFilamentFields\Layout\Form\Fields\NameFormField;
 use Filament\Forms\Components\Select;
 
-class RoleFormField
+class RoleRelationShipFormField
 {
     public static function make(): Select
     {
 
-        return RelationFormField::make('roles')
+        return RelationShipFormField::make('roles')
             ->label(__('akira-filament-fields::form.fields.roles'))
             ->relationship('roles', 'name')
             ->createOptionForm([
