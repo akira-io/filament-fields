@@ -2,16 +2,17 @@
 
 declare(strict_types=1);
 
-namespace Akira\AkiraFilamentFields\Layout\Form\Fields;
+namespace Akira\AkiraFilamentFields\Layout\Form\Fields\RelationShip;
 
+use Akira\AkiraFilamentFields\Layout\Form\Fields\NameFormField;
 use Filament\Forms\Components\Select;
 
-class ExpenseTypeFormField
+class ExpenseTypeRelationShipFormField
 {
     public static function make(): Select
     {
 
-        return RelationFormField::make('expense_type_id')
+        return RelationShipFormField::make('expense_type_id')
             ->label(__('akira-filament-fields::form.fields.expense_type'))
             ->relationship('expenseType', 'name')
             ->createOptionForm([

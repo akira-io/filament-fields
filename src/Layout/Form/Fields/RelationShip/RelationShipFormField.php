@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Akira\AkiraFilamentFields\Layout\Form\Fields;
+namespace Akira\AkiraFilamentFields\Layout\Form\Fields\RelationShip;
 
 use Filament\Forms\Components\Select;
 
-class RelationFormField
+class RelationShipFormField
 {
     public static function make(string $name): Select
     {
