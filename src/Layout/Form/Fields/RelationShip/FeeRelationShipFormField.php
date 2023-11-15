@@ -11,7 +11,7 @@ class FeeRelationShipFormField
     public static function make(): Select
     {
 
-        return Select::make('fee_id')
+        return RelationShipFormField::make('fee_id')
             ->label(__('akira-filament-fields::form.fields.route'))
             ->relationship('fee', 'name');
     }
