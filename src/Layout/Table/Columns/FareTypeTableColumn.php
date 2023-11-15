@@ -12,7 +12,7 @@ class FareTypeTableColumn
     {
 
         return TextColumn::make('fareType.name')
-            ->label(__('akira-filament-fields::table.columns.fareType'))
+            ->label(__('akira-filament-fields::table.columns.fare_type'))
             ->badge()
             ->color('success')
             ->sortable();
