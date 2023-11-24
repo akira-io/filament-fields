@@ -47,6 +47,7 @@ return [
         'is_super_admin' => 'Is Super Admin',
         'is_driver' => 'Is Driver',
         'is_client' => 'Is Client',
+        'url' => 'Url',
     ],
 
     'actions' => [
