@@ -31,5 +31,6 @@ return [
         'description' => 'Descrição',
         'image' => 'Imagem',
         'url' => 'Url',
+        'roles' => 'Funções',
     ],
 ];

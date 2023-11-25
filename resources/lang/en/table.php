@@ -31,5 +31,6 @@ return [
         'description' => 'Description',
         'image' => 'Image',
         'url' => 'Url',
+        'roles' => 'Roles',
     ],
 ];

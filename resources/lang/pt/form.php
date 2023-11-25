@@ -22,6 +22,7 @@ return [
         'image' => 'Imagem',
         'url' => 'Url',
         'order' => 'Ordem',
+        'roles' => 'Funções',
 
     ],
 
