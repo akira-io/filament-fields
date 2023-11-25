@@ -48,6 +48,7 @@ return [
         'is_driver' => 'Is Driver',
         'is_client' => 'Is Client',
         'url' => 'Url',
+        'roles' => 'Roles',
     ],
 
     'actions' => [
