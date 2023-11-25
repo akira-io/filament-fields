@@ -23,6 +23,7 @@ return [
         'url' => 'Url',
         'order' => 'Ordem',
         'roles' => 'Funções',
+        'password' => 'Palavra-passe',
 
     ],
 
