@@ -32,5 +32,6 @@ return [
         'image' => 'Imagem',
         'url' => 'Url',
         'roles' => 'Funções',
+        'password' => 'Palavra-passe',
     ],
 ];

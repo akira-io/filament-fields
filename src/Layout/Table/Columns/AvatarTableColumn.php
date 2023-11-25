@@ -12,7 +12,7 @@ class AvatarTableColumn
     {
 
         return ImageColumn::make('avatar')
-            ->label(__('akira-filament-fields::table.columns.avatar'))
-            ->searchable();
+            ->circular()
+            ->label(__('akira-filament-fields::table.columns.avatar'));
     }
 }
