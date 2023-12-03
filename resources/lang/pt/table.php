@@ -40,6 +40,7 @@ return [
         'nif' => 'NIF',
         'country' => 'País',
         'is_company' => 'É Empresa',
+        'service' => 'Serviço',
 
     ],
 ];
