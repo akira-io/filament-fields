@@ -35,5 +35,6 @@ return [
         'password' => 'Password',
         'expense_type_name' => 'Expense Type',
         'client_name' => 'Client',
+        'reference' => 'Reference',
     ],
 ];
