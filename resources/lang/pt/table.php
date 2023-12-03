@@ -43,6 +43,7 @@ return [
         'service' => 'Serviço',
         'ip_address' => 'Endereço IP',
         'social_network_name' => 'Rede Social',
+        'first_name' => 'Nome',
 
     ],
 ];

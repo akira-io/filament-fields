@@ -30,6 +30,7 @@ return [
         'service' => 'Serviço',
         'social_network' => 'Rede Social',
         'expense_type' => 'Tipo de Despesa',
+        'first_name' => 'Nome',
 
     ],
 
