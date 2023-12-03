@@ -38,5 +38,6 @@ return [
         'reference' => 'Reference',
         'document_date' => 'Document Date',
         'nif' => 'VAT Number',
+        'country' => 'Country',
     ],
 ];
