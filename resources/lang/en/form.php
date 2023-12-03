@@ -49,6 +49,7 @@ return [
         'is_client' => 'Is Client',
         'url' => 'Url',
         'roles' => 'Roles',
+        'reference' => 'Reference',
     ],
 
     'actions' => [

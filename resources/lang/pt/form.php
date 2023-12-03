@@ -24,6 +24,7 @@ return [
         'order' => 'Ordem',
         'roles' => 'Funções',
         'password' => 'Palavra-passe',
+        'reference' => 'Referência',
 
     ],
 
