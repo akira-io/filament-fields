@@ -36,5 +36,6 @@ return [
         'expense_type_name' => 'Expense Type',
         'client_name' => 'Client',
         'reference' => 'Reference',
+        'document_date' => 'Document Date',
     ],
 ];
