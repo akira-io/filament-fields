@@ -50,6 +50,7 @@ return [
         'url' => 'Url',
         'roles' => 'Roles',
         'reference' => 'Reference',
+        'document_date' => 'Document Date',
     ],
 
     'actions' => [
