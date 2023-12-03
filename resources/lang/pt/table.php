@@ -37,5 +37,6 @@ return [
         'client_name' => 'Cliente',
         'reference' => 'Referência',
         'document_date' => 'Data do Documento',
+        'nif' => 'NIF',
     ],
 ];
