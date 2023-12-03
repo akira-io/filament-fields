@@ -39,5 +39,6 @@ return [
         'document_date' => 'Document Date',
         'nif' => 'VAT Number',
         'country' => 'Country',
+        'is_company' => 'Is Company',
     ],
 ];
