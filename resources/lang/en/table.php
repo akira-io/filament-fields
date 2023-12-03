@@ -42,5 +42,6 @@ return [
         'is_company' => 'Is Company',
         'service' => 'Service',
         'ip_address' => 'IP Address',
+        'social_network_name' => 'Social Network',
     ],
 ];
