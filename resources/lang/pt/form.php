@@ -25,6 +25,7 @@ return [
         'roles' => 'Funções',
         'password' => 'Palavra-passe',
         'reference' => 'Referência',
+        'document_date' => 'Data do Documento',
 
     ],
 
