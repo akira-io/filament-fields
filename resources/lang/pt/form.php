@@ -28,6 +28,7 @@ return [
         'document_date' => 'Data do Documento',
         'is_drop_down' => 'É Drop Down',
         'service' => 'Serviço',
+        'social_network' => 'Rede Social',
 
     ],
 
