@@ -15,8 +15,6 @@ class ReferenceFormField
             ->label(__('akira-filament-fields::form.fields.reference'))
             ->maxLength(255)
             ->minValue(5)
-            ->unique(ignoreRecord: true)
-            ->required();
-
+            ->unique(ignoreRecord: true);
     }
 }
