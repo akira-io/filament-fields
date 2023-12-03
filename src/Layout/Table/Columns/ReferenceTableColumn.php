@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Akira\AkiraFilamentFields\Layout\Table;
+namespace Akira\AkiraFilamentFields\Layout\Table\Columns;
 
 use Filament\Tables\Columns\TextColumn;
 
