@@ -41,6 +41,7 @@ return [
         'country' => 'País',
         'is_company' => 'É Empresa',
         'service' => 'Serviço',
+        'ip_address' => 'Endereço IP',
 
     ],
 ];
