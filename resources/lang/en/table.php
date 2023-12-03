@@ -37,5 +37,6 @@ return [
         'client_name' => 'Client',
         'reference' => 'Reference',
         'document_date' => 'Document Date',
+        'nif' => 'VAT Number',
     ],
 ];
