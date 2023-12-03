@@ -33,5 +33,6 @@ return [
         'url' => 'Url',
         'roles' => 'Roles',
         'password' => 'Password',
+        'expense_type_name' => 'Expense Type',
     ],
 ];
