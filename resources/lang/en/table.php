@@ -41,5 +41,6 @@ return [
         'country' => 'Country',
         'is_company' => 'Is Company',
         'service' => 'Service',
+        'ip_address' => 'IP Address',
     ],
 ];
