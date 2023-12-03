@@ -52,6 +52,7 @@ return [
         'reference' => 'Reference',
         'document_date' => 'Document Date',
         'service' => 'Service',
+        'social_network' => 'Social Network',
     ],
 
     'actions' => [
