@@ -31,6 +31,7 @@ return [
         'social_network' => 'Rede Social',
         'expense_type' => 'Tipo de Despesa',
         'first_name' => 'Nome',
+        'last_name' => 'Apelido',
 
     ],
 
