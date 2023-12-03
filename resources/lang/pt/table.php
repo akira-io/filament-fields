@@ -38,5 +38,6 @@ return [
         'reference' => 'Referência',
         'document_date' => 'Data do Documento',
         'nif' => 'NIF',
+        'country' => 'País',
     ],
 ];
