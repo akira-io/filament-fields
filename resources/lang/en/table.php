@@ -34,5 +34,6 @@ return [
         'roles' => 'Roles',
         'password' => 'Password',
         'expense_type_name' => 'Expense Type',
+        'client_name' => 'Client',
     ],
 ];
