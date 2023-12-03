@@ -53,6 +53,7 @@ return [
         'document_date' => 'Document Date',
         'service' => 'Service',
         'social_network' => 'Social Network',
+        'expense_type' => 'Expense Type',
     ],
 
     'actions' => [
