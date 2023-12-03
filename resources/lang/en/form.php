@@ -51,6 +51,7 @@ return [
         'roles' => 'Roles',
         'reference' => 'Reference',
         'document_date' => 'Document Date',
+        'service' => 'Service',
     ],
 
     'actions' => [

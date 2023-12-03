@@ -27,6 +27,7 @@ return [
         'reference' => 'Referência',
         'document_date' => 'Data do Documento',
         'is_drop_down' => 'É Drop Down',
+        'service' => 'Serviço',
 
     ],
 
