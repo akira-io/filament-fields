@@ -43,5 +43,6 @@ return [
         'service' => 'Service',
         'ip_address' => 'IP Address',
         'social_network_name' => 'Social Network',
+        'first_name' => 'First Name',
     ],
 ];
