@@ -40,5 +40,6 @@ return [
         'nif' => 'VAT Number',
         'country' => 'Country',
         'is_company' => 'Is Company',
+        'service' => 'Service',
     ],
 ];
