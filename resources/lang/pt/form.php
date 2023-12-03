@@ -29,6 +29,7 @@ return [
         'is_drop_down' => 'É Drop Down',
         'service' => 'Serviço',
         'social_network' => 'Rede Social',
+        'expense_type' => 'Tipo de Despesa',
 
     ],
 
