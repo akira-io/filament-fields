@@ -55,6 +55,7 @@ return [
         'social_network' => 'Social Network',
         'expense_type' => 'Expense Type',
         'first_name' => 'First Name',
+        'last_name' => 'Last Name',
     ],
 
     'actions' => [

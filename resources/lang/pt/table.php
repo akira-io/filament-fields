@@ -44,6 +44,7 @@ return [
         'ip_address' => 'Endereço IP',
         'social_network_name' => 'Rede Social',
         'first_name' => 'Nome',
+        'last_name' => 'Apelido',
 
     ],
 ];
