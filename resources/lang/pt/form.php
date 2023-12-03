@@ -32,6 +32,7 @@ return [
         'expense_type' => 'Tipo de Despesa',
         'first_name' => 'Nome',
         'last_name' => 'Apelido',
+        'address' => 'Endereço',
 
     ],
 
