@@ -12,7 +12,7 @@ class TimeStampTableColumn
     {
 
         return TextColumn::make('created_at')
-            ->label(__('table.columns.created_at'))
+            ->label('Criado em')
             ->dateTime('d-m-Y  H:i')
             ->sortable()
             ->toggleable(isToggledHiddenByDefault: true);
@@ -28,7 +28,7 @@ class TimeStampTableColumn
     {
 
         return TextColumn::make('updated_at')
-            ->label(__('akira-filament-fields::table.columns.updated_at'))
+            ->label('Atualizado em')
             ->dateTime('d-m-Y  H:i')
             ->sortable()
             ->toggleable(isToggledHiddenByDefault: true);
@@ -39,7 +39,7 @@ class TimeStampTableColumn
     {
 
         return TextColumn::make('updated_at')
-            ->label(__('akira-filament-fields::table.columns.deleted_at'))
+            ->label('Eliminado em')
             ->dateTime('d-m-Y  H:i')
             ->sortable()
             ->toggleable(isToggledHiddenByDefault: true);
@@ -50,7 +50,7 @@ class TimeStampTableColumn
     {
 
         return TextColumn::make('email_verified_at')
-            ->label(__('akira-filament-fields::table.columns.email_verified_at'))
+            ->label('Email verificado em')
             ->dateTime('d-m-Y  H:i')
             ->sortable()
             ->toggleable(isToggledHiddenByDefault: true);

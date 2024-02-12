@@ -12,7 +12,7 @@ class CreatedByTableColumn
     {
 
         return TextColumn::make('createdBy.name')
-            ->label(__('akira-filament-fields::table.columns.createdBy'))
+            ->label('Criado por')
             ->numeric()
             ->badge()
             ->sortable();
