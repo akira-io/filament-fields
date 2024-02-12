@@ -6,7 +6,7 @@ namespace Akira\AkiraFilamentFields\Layout\Table\Columns;
 
 use Filament\Tables\Columns\TextColumn;
 
-class DefaultRouteShortTableColumn
+class DefaultRouteShortNameTableColumn
 {
     public static function make(): TextColumn
     {
