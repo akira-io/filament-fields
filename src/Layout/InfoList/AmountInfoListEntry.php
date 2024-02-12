@@ -14,6 +14,7 @@ class AmountInfoListEntry
             ->label('Valor')
             ->money('CVE')
             ->badge()
+            ->weight('bold')
             ->color('success');
     }
 }

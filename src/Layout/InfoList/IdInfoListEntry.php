@@ -13,6 +13,7 @@ class IdInfoListEntry
         return TextEntry::make('id')
             ->label('ID')
             ->badge()
+            ->weight('bold')
             ->color('success');
     }
 }

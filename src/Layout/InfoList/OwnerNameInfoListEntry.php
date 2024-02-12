@@ -11,6 +11,7 @@ class OwnerNameInfoListEntry
     public static function make(): TextEntry
     {
         return TextEntry::make('owner.name')
+            ->weight('bold')
             ->label('Operador');
     }
 }

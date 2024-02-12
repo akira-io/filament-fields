@@ -13,6 +13,8 @@ class ClosedDateInfoListEntry
         return TextEntry::make('closed_date')
             ->label('Fechado em')
             ->badge()
+            ->weight('bold')
+            ->date(config('akira-filament-fields.date_format'))
             ->color('success');
     }
 }

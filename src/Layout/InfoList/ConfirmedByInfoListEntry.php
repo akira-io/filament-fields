@@ -12,6 +12,7 @@ class ConfirmedByInfoListEntry
     {
         return TextEntry::make('confirmedBy.name')
             ->label('Confirmado por')
+            ->weight('bold')
             ->visible(fn ($record) => $record->is_confirmed);
     }
 }

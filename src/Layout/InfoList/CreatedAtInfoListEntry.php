@@ -13,6 +13,8 @@ class CreatedAtInfoListEntry
         return TextEntry::make('created_at')
             ->label('Criado em')
             ->badge()
+            ->weight('bold')
+            ->date(config('akira-filament-fields.date_format'))
             ->color('success');
     }
 }

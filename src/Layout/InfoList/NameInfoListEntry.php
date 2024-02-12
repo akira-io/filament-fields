@@ -6,12 +6,12 @@ namespace Akira\AkiraFilamentFields\Layout\InfoList;
 
 use Filament\Infolists\Components\TextEntry;
 
-class CreatedByInfoListEntry
+class NameInfoListEntry
 {
     public static function make(): TextEntry
     {
-        return TextEntry::make('createdBy.name')
-            ->weight('bold')
-            ->label('Criado por');
+        return TextEntry::make('name')
+            ->label('Nome')
+            ->weight('bold');
     }
 }
