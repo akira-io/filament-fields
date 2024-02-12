@@ -1,5 +1,17 @@
 
 
+## [1.6.0](https://github.com/akira-io/filament-fields/compare/v1.5.0...v1.6.0) (2024-02-12)
+
+
+### Features
+
+*  locale form field ([80ba7f6](https://github.com/akira-io/filament-fields/commit/80ba7f67b8de12ad79bf0f80f90b7190179eebaa))
+
+
+### Bug Fixes
+
+* renamed DefaultRouteShortTableColumn to DefaultRouteShortNameTableColumn ([63e0dbd](https://github.com/akira-io/filament-fields/commit/63e0dbd4fd0e953ef9597331760e177ac2e0c145))
+
 ## [1.5.0](https://github.com/akira-io/filament-fields/compare/v1.4.0...v1.5.0) (2024-02-12)
 
 
