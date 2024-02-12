@@ -15,6 +15,7 @@ class PasswordFormField
             ->password()
             ->required()
             ->maxLength(255)
-            ->label(__('akira-filament-fields::form.fields.password'));
+            ->revealable()
+            ->label('Palavra-passe');
     }
 }
