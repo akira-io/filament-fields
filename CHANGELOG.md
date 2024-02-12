@@ -1,5 +1,13 @@
 
 
+## [1.7.0](https://github.com/akira-io/filament-fields/compare/v1.6.1...v1.7.0) (2024-02-12)
+
+
+### Features
+
+* closed date table column ([748e962](https://github.com/akira-io/filament-fields/commit/748e962de2c563ee4c9fca2363115ce060a3a356))
+* is open icon column ([3fac3cc](https://github.com/akira-io/filament-fields/commit/3fac3cc4977cacfa831453c92f91a1e6580bec5c))
+
 ## [1.6.1](https://github.com/akira-io/filament-fields/compare/v1.6.0...v1.6.1) (2024-02-12)
 
 
