@@ -12,7 +12,7 @@ class IsActiveFormField
     {
 
         return Toggle::make('is_active')
-            ->label(__('akira-filament-fields::form.fields.is_active'))
+            ->label('Ativo')
             ->required();
 
     }
