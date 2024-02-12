@@ -1,5 +1,12 @@
 
 
+## [1.8.0](https://github.com/akira-io/filament-fields/compare/v1.7.0...v1.8.0) (2024-02-12)
+
+
+### Features
+
+* title info list entry ([9d5f37c](https://github.com/akira-io/filament-fields/commit/9d5f37c11ce1b53187aaa139b251ada84fc57822))
+
 ## [1.7.0](https://github.com/akira-io/filament-fields/compare/v1.6.1...v1.7.0) (2024-02-12)
 
 
