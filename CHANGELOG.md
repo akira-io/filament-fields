@@ -1,5 +1,13 @@
 
 
+## [1.6.1](https://github.com/akira-io/filament-fields/compare/v1.6.0...v1.6.1) (2024-02-12)
+
+
+### Bug Fixes
+
+* is active form field ([3ca0d7c](https://github.com/akira-io/filament-fields/commit/3ca0d7c65800bd11d75a21b2c3660d78cade4cd0))
+* password form field ([ed4a34a](https://github.com/akira-io/filament-fields/commit/ed4a34a27a7c69a552ae6f40ea78f1ad11f5bffd))
+
 ## [1.6.0](https://github.com/akira-io/filament-fields/compare/v1.5.0...v1.6.0) (2024-02-12)
 
 
